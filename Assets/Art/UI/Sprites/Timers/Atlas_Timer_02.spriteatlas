@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Timer_02
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 52359132ee40455488b97427762cf50c, type: 3}
+    - {fileID: 2800000, guid: ea83fd347aa368c42972601028b1c551, type: 3}
+    - {fileID: 2800000, guid: 7cd0991bd963be24f8995ca8e9ebe108, type: 3}
+    - {fileID: 2800000, guid: d2219871dfb017443bcd59da24bbafdd, type: 3}
+    - {fileID: 2800000, guid: 2fe87d3fd9682ff4cb867e10077d6152, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - d2219871dfb017443bcd59da24bbafdd: 21300000
+    - 52359132ee40455488b97427762cf50c: 21300000
+    - ea83fd347aa368c42972601028b1c551: 21300000
+    - 7cd0991bd963be24f8995ca8e9ebe108: 21300000
+    - 2fe87d3fd9682ff4cb867e10077d6152: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d2219871dfb017443bcd59da24bbafdd, type: 3}
+  - {fileID: 21300000, guid: 52359132ee40455488b97427762cf50c, type: 3}
+  - {fileID: 21300000, guid: ea83fd347aa368c42972601028b1c551, type: 3}
+  - {fileID: 21300000, guid: 7cd0991bd963be24f8995ca8e9ebe108, type: 3}
+  - {fileID: 21300000, guid: 2fe87d3fd9682ff4cb867e10077d6152, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - spr_Timer_Trimmer
+  - spr_Timer_Lotion
+  - spr_Timer_Register
+  - spr_Timer_Scissors
+  - spr_Timer_Washer
+  m_RenderDataMap: {}
+  m_Tag: Atlas_Timer_02
+  m_IsVariant: 0

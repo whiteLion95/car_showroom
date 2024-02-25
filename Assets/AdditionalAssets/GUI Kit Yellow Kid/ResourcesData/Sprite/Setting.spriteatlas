@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Setting
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1eacbf1a7100242a9b6363896a9dd686, type: 3}
+    totalSpriteSurfaceArea: 92980
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ad698f006cca94321bc562868ba63056, type: 3}
+  - {fileID: 21300000, guid: 6c98af9045ffe4bfc86831573a8fa6b6, type: 3}
+  - {fileID: 21300000, guid: 4bf77fd0fcfeb45c19d7f7ede21b85a9, type: 3}
+  - {fileID: 21300000, guid: e9b1c9525088e4e899e00b237734a9c6, type: 3}
+  - {fileID: 21300000, guid: 9b135f036cd294becb1762b2e2c39e0a, type: 3}
+  - {fileID: 21300000, guid: 2faabe152a4f44b898861e19c54dd570, type: 3}
+  - {fileID: 21300000, guid: e4888ce7df41e49539d541ae0daf155a, type: 3}
+  - {fileID: 21300000, guid: 87aa30899a7b54ab59bdf46f63369e40, type: 3}
+  - {fileID: 21300000, guid: 1cd6350aa915c47c7b626062581c39fc, type: 3}
+  - {fileID: 21300000, guid: 01a717be7218141138ed46b8c1548a76, type: 3}
+  - {fileID: 21300000, guid: 838981ee090d24d04a2ef9ba79e36fe6, type: 3}
+  - {fileID: 21300000, guid: 766d332f6106f44dfa388b3c8357ab88, type: 3}
+  - {fileID: 21300000, guid: cce4398f28b5d40c8a6dedca0a71b7f2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - switch_on_bg
+  - control_bar_bg
+  - control_point
+  - setting_icon_info
+  - setting_title_icon
+  - setting_icon_sound
+  - switch_off
+  - control_bar
+  - switch_off_bg
+  - setting_icon_notification
+  - switch_on
+  - setting_icon_music
+  - control_bar_dot
+  m_Tag: Setting
+  m_IsVariant: 0

@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_BuyLabel_01
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c9e59b5fff936fd48b0a7fd6900183d0, type: 3}
+    - {fileID: 2800000, guid: 5c08f26dbf67fea4186cc0061de113ac, type: 3}
+    - {fileID: 2800000, guid: cbe0ccbe64637dd49b903a5aa714d36e, type: 3}
+    - {fileID: 2800000, guid: 20abc11c866f1a64ab36ee405d5748b8, type: 3}
+    - {fileID: 2800000, guid: 161a4f375264ae34fb1968634cce2b43, type: 3}
+    - {fileID: 2800000, guid: 30d7a60b2afc92d458dc96bd0693f484, type: 3}
+    - {fileID: 2800000, guid: be9fcd928f8d09642a61b4f1a9c738ed, type: 3}
+    - {fileID: 2800000, guid: ccaa7470b7df7a1419f484e519b7bbf0, type: 3}
+    - {fileID: 2800000, guid: 201e67bc021d267489b211006d089fe9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - ccaa7470b7df7a1419f484e519b7bbf0: 21300000
+    - be9fcd928f8d09642a61b4f1a9c738ed: 21300000
+    - 161a4f375264ae34fb1968634cce2b43: 21300000
+    - 30d7a60b2afc92d458dc96bd0693f484: 21300000
+    - 20abc11c866f1a64ab36ee405d5748b8: 21300000
+    - 201e67bc021d267489b211006d089fe9: 21300000
+    - 5c08f26dbf67fea4186cc0061de113ac: 21300000
+    - cbe0ccbe64637dd49b903a5aa714d36e: 21300000
+    - c9e59b5fff936fd48b0a7fd6900183d0: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ccaa7470b7df7a1419f484e519b7bbf0, type: 3}
+  - {fileID: 21300000, guid: be9fcd928f8d09642a61b4f1a9c738ed, type: 3}
+  - {fileID: 21300000, guid: 161a4f375264ae34fb1968634cce2b43, type: 3}
+  - {fileID: 21300000, guid: 30d7a60b2afc92d458dc96bd0693f484, type: 3}
+  - {fileID: 21300000, guid: 20abc11c866f1a64ab36ee405d5748b8, type: 3}
+  - {fileID: 21300000, guid: 201e67bc021d267489b211006d089fe9, type: 3}
+  - {fileID: 21300000, guid: 5c08f26dbf67fea4186cc0061de113ac, type: 3}
+  - {fileID: 21300000, guid: cbe0ccbe64637dd49b903a5aa714d36e, type: 3}
+  - {fileID: 21300000, guid: c9e59b5fff936fd48b0a7fd6900183d0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - spr_BuyLabel_Football
+  - spr_BuyLabel_Dryer
+  - spr_BuyLabel_ChairDryer
+  - spr_BuyLabel_ChairWasher
+  - spr_BuyLabel_Chair
+  - spr_BuyLabel_HairDye
+  - spr_BuyLabel_Cart
+  - spr_BuyLabel_Cashier
+  - spr_BuyLabel_Barber
+  m_RenderDataMap: {}
+  m_Tag: Atlas_BuyLabel_01
+  m_IsVariant: 0

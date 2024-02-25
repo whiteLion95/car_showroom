@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_TouchGesture_04
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9993290f5db3fa84fb93604d8a59fe32, type: 3}
+    - {fileID: 2800000, guid: 1bd1108044e7c604e85fe50446f8e1e5, type: 3}
+    - {fileID: 2800000, guid: cbd6e904f0cff314f9bf3c1a93ad5b30, type: 3}
+    - {fileID: 2800000, guid: cb56a39be481a7c42bd6b6ad5dd1a3d4, type: 3}
+    - {fileID: 2800000, guid: 32b7c2a208df1494aa581147b8e21810, type: 3}
+    - {fileID: 2800000, guid: 20106733b10346a4db8b7c3730825615, type: 3}
+    - {fileID: 2800000, guid: 08f57de47f4455646a7873e314066944, type: 3}
+    - {fileID: 2800000, guid: b9fd5b3374c8ab04a91f9efa1b69534d, type: 3}
+    - {fileID: 2800000, guid: bb8ee931cd9f60c4fb0ab13628e4b735, type: 3}
+    - {fileID: 2800000, guid: faa6a37abccf8634398219750a71aa34, type: 3}
+    - {fileID: 2800000, guid: ebd46fc0a8bce6b49b5725fabab138f8, type: 3}
+    - {fileID: 2800000, guid: a8e46974b4f4a3d46b65f14b2ff0d907, type: 3}
+    - {fileID: 2800000, guid: 1869afd552615e245954e2c65e49d958, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 1bd1108044e7c604e85fe50446f8e1e5: 21300000
+    - ebd46fc0a8bce6b49b5725fabab138f8: 21300000
+    - bb8ee931cd9f60c4fb0ab13628e4b735: 21300000
+    - 32b7c2a208df1494aa581147b8e21810: 21300000
+    - 20106733b10346a4db8b7c3730825615: 21300000
+    - b9fd5b3374c8ab04a91f9efa1b69534d: 21300000
+    - cbd6e904f0cff314f9bf3c1a93ad5b30: 21300000
+    - a8e46974b4f4a3d46b65f14b2ff0d907: 21300000
+    - 08f57de47f4455646a7873e314066944: 21300000
+    - 1869afd552615e245954e2c65e49d958: 21300000
+    - faa6a37abccf8634398219750a71aa34: 21300000
+    - cb56a39be481a7c42bd6b6ad5dd1a3d4: 21300000
+    - 9993290f5db3fa84fb93604d8a59fe32: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1bd1108044e7c604e85fe50446f8e1e5, type: 3}
+  - {fileID: 21300000, guid: ebd46fc0a8bce6b49b5725fabab138f8, type: 3}
+  - {fileID: 21300000, guid: bb8ee931cd9f60c4fb0ab13628e4b735, type: 3}
+  - {fileID: 21300000, guid: 32b7c2a208df1494aa581147b8e21810, type: 3}
+  - {fileID: 21300000, guid: 20106733b10346a4db8b7c3730825615, type: 3}
+  - {fileID: 21300000, guid: b9fd5b3374c8ab04a91f9efa1b69534d, type: 3}
+  - {fileID: 21300000, guid: cbd6e904f0cff314f9bf3c1a93ad5b30, type: 3}
+  - {fileID: 21300000, guid: a8e46974b4f4a3d46b65f14b2ff0d907, type: 3}
+  - {fileID: 21300000, guid: 08f57de47f4455646a7873e314066944, type: 3}
+  - {fileID: 21300000, guid: 1869afd552615e245954e2c65e49d958, type: 3}
+  - {fileID: 21300000, guid: faa6a37abccf8634398219750a71aa34, type: 3}
+  - {fileID: 21300000, guid: cb56a39be481a7c42bd6b6ad5dd1a3d4, type: 3}
+  - {fileID: 21300000, guid: 9993290f5db3fa84fb93604d8a59fe32, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 039-scroll
+  - 048-rotate
+  - 046-zoom out
+  - 042-dial
+  - 043-swipe
+  - 045-tap
+  - 040-scroll
+  - 049-flick
+  - 044-tap
+  - 050-flick
+  - 047-zoom in
+  - 041-swipe
+  - 038-swipe right
+  m_RenderDataMap: {}
+  m_Tag: Atlas_TouchGesture_04
+  m_IsVariant: 0

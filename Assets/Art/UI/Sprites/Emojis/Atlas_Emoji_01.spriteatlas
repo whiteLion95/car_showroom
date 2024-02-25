@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Emoji_01
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4b6d88a498e34bf459b95b3191d5cf21, type: 3}
+    - {fileID: 2800000, guid: 971819663e253d54f8e44819ba4f4a9a, type: 3}
+    - {fileID: 2800000, guid: 2a821b1b45906704ca4d10418c30108d, type: 3}
+    - {fileID: 2800000, guid: 9bd6f8db653f4d94c991bd4df69c7ba2, type: 3}
+    - {fileID: 2800000, guid: ea753805904757647801df5a1d0576af, type: 3}
+    - {fileID: 2800000, guid: 81edc0e89fb359f47a2aa571d9c3ff31, type: 3}
+    - {fileID: 2800000, guid: 668afa4c5c7ab9248a4e4d04dc8a519e, type: 3}
+    - {fileID: 2800000, guid: fe9f27e3073a65649ac6cb950ae21b5e, type: 3}
+    - {fileID: 2800000, guid: 35110a6b6b0e606439d198b98f6fea65, type: 3}
+    - {fileID: 2800000, guid: b36014c7ae3c8f0478f05f294e508291, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - fe9f27e3073a65649ac6cb950ae21b5e: 21300000
+    - 4b6d88a498e34bf459b95b3191d5cf21: 21300000
+    - ea753805904757647801df5a1d0576af: 21300000
+    - 971819663e253d54f8e44819ba4f4a9a: 21300000
+    - b36014c7ae3c8f0478f05f294e508291: 1298405764
+    - b36014c7ae3c8f0478f05f294e508291: -2076722669
+    - b36014c7ae3c8f0478f05f294e508291: 1129533836
+    - b36014c7ae3c8f0478f05f294e508291: -1978265444
+    - 81edc0e89fb359f47a2aa571d9c3ff31: 21300000
+    - 2a821b1b45906704ca4d10418c30108d: 2140535251
+    - 2a821b1b45906704ca4d10418c30108d: -1575952220
+    - 35110a6b6b0e606439d198b98f6fea65: 21300000
+    - 9bd6f8db653f4d94c991bd4df69c7ba2: 21300000
+    - 668afa4c5c7ab9248a4e4d04dc8a519e: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fe9f27e3073a65649ac6cb950ae21b5e, type: 3}
+  - {fileID: 21300000, guid: 4b6d88a498e34bf459b95b3191d5cf21, type: 3}
+  - {fileID: 21300000, guid: ea753805904757647801df5a1d0576af, type: 3}
+  - {fileID: 21300000, guid: 971819663e253d54f8e44819ba4f4a9a, type: 3}
+  - {fileID: 1298405764, guid: b36014c7ae3c8f0478f05f294e508291, type: 3}
+  - {fileID: -2076722669, guid: b36014c7ae3c8f0478f05f294e508291, type: 3}
+  - {fileID: 1129533836, guid: b36014c7ae3c8f0478f05f294e508291, type: 3}
+  - {fileID: -1978265444, guid: b36014c7ae3c8f0478f05f294e508291, type: 3}
+  - {fileID: 21300000, guid: 81edc0e89fb359f47a2aa571d9c3ff31, type: 3}
+  - {fileID: 2140535251, guid: 2a821b1b45906704ca4d10418c30108d, type: 3}
+  - {fileID: -1575952220, guid: 2a821b1b45906704ca4d10418c30108d, type: 3}
+  - {fileID: 21300000, guid: 35110a6b6b0e606439d198b98f6fea65, type: 3}
+  - {fileID: 21300000, guid: 9bd6f8db653f4d94c991bd4df69c7ba2, type: 3}
+  - {fileID: 21300000, guid: 668afa4c5c7ab9248a4e4d04dc8a519e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - spr_Emoji_Happy_3
+  - spr_Emoji_Angry_1
+  - spr_Emoji_Grin_1
+  - spr_Emoji_Angry_2
+  - spr_Emoji_Happy_atlas_1
+  - spr_Emoji_Happy_atlas_0
+  - spr_Emoji_Happy_atlas_3
+  - spr_Emoji_Happy_atlas_2
+  - spr_Emoji_Happy_1
+  - spr_Emoji_Angry_Atlas_0
+  - spr_Emoji_Angry_Atlas_1
+  - spr_Emoji_Happy_4
+  - spr_Emoji_Cool_1
+  - spr_Emoji_Happy_2
+  m_RenderDataMap: {}
+  m_Tag: Atlas_Emoji_01
+  m_IsVariant: 0

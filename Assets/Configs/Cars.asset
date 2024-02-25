@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72dfd21f8f205a944bf31523f61ec532, type: 3}
+  m_Name: Cars
+  m_EditorClassIdentifier: 
+  _cars:
+  - name: 0
+    prefab: {fileID: 1826692586761627078, guid: 6779401a27aaa6e4bb70b6a99f692681, type: 3}
+    requiredResources:
+    - type: 0
+      amount: 4
+    - type: 1
+      amount: 4
+    - type: 2
+      amount: 4
+    unlockPrice: 0
+    incomeFromSale: 20
+    sprite: {fileID: 21300000, guid: b044a8d729e956e4a9bfe6c668d99941, type: 3}
+    extraTip: 20
+  - name: 1
+    prefab: {fileID: 1826692586761627078, guid: ee24dea5f8d989942b116708612b75cd, type: 3}
+    requiredResources:
+    - type: 0
+      amount: 8
+    - type: 1
+      amount: 8
+    - type: 2
+      amount: 4
+    unlockPrice: 80
+    incomeFromSale: 50
+    sprite: {fileID: 21300000, guid: cb45aab6526d72f468fd7c826e7d30a4, type: 3}
+    extraTip: 30
+  - name: 2
+    prefab: {fileID: 1826692586761627078, guid: 11f32536b65f79b4dbeac1053305fae5, type: 3}
+    requiredResources:
+    - type: 0
+      amount: 12
+    - type: 1
+      amount: 8
+    - type: 2
+      amount: 4
+    unlockPrice: 750
+    incomeFromSale: 80
+    sprite: {fileID: 21300000, guid: 28e5fdd5b72ee654c9be64f990cccc1c, type: 3}
+    extraTip: 60
+  - name: 3
+    prefab: {fileID: 0}
+    requiredResources: []
+    unlockPrice: 5000
+    incomeFromSale: 120
+    sprite: {fileID: 21300000, guid: 8dbd4ca491c86b54bac98d5d70a7b67d, type: 3}
+    extraTip: 100
+  - name: 4
+    prefab: {fileID: 0}
+    requiredResources: []
+    unlockPrice: 6000
+    incomeFromSale: 150
+    sprite: {fileID: 21300000, guid: a0c153b412acf3e4bb5cea7db2f62ce2, type: 3}
+    extraTip: 130
+  - name: 5
+    prefab: {fileID: 0}
+    requiredResources: []
+    unlockPrice: 7000
+    incomeFromSale: 200
+    sprite: {fileID: 21300000, guid: 1cb87eb215f47e749866d39a6ca9fd1c, type: 3}
+    extraTip: 180

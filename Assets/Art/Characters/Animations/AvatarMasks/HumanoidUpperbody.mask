@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HumanoidUpperbody
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Stickman
+    m_Weight: 1
+  - m_Path: Stickman_rig
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Neck
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Neck/Head
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Neck/Head/Head_end
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.L
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.L/Arm.L
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.L/Arm.L/ForeArm.L
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.L/Arm.L/ForeArm.L/Hand1.L
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.L/Arm.L/ForeArm.L/Hand1.L/Hand2.L
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.L/Arm.L/ForeArm.L/Hand1.L/Hand2.L/Hand2.L_end
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.L/Arm.L/ForeArm.L/Hand1.L/HandThumb1.L
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.L/Arm.L/ForeArm.L/Hand1.L/HandThumb1.L/HandThumb2.L
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.L/Arm.L/ForeArm.L/Hand1.L/HandThumb1.L/HandThumb2.L/HandThumb2.L_end
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.R
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.R/Arm.R
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.R/Arm.R/ForeArm.R
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.R/Arm.R/ForeArm.R/Hand1.R
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.R/Arm.R/ForeArm.R/Hand1.R/Hand2.R
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.R/Arm.R/ForeArm.R/Hand1.R/Hand2.R/Hand2.R_end
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.R/Arm.R/ForeArm.R/Hand1.R/HandThumb1.R
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.R/Arm.R/ForeArm.R/Hand1.R/HandThumb1.R/HandThumb2.R
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/Spine1/Spine2/Spine3/Shoulder.R/Arm.R/ForeArm.R/Hand1.R/HandThumb1.R/HandThumb2.R/HandThumb2.R_end
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/UpLeg.L
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/UpLeg.L/Leg.L
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/UpLeg.L/Leg.L/Foot.L
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/UpLeg.L/Leg.L/Foot.L/Toe.L
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/UpLeg.L/Leg.L/Foot.L/Toe.L/Toe.L_end
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/UpLeg.R
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/UpLeg.R/Leg.R
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/UpLeg.R/Leg.R/Foot.R
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/UpLeg.R/Leg.R/Foot.R/Toe.R
+    m_Weight: 1
+  - m_Path: Stickman_rig/Hips/UpLeg.R/Leg.R/Foot.R/Toe.R/Toe.R_end
+    m_Weight: 1

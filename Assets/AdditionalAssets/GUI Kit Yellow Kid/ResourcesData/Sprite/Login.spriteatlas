@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Login
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3a09f6b53bdbf40baa57e08aa1c4d79e, type: 3}
+    totalSpriteSurfaceArea: 152106
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 21122ae12d9494586afa95bcdb64e78c, type: 3}
+  - {fileID: 21300000, guid: 70cfc333ea7664ac08a1b2c6277fba68, type: 3}
+  - {fileID: 21300000, guid: b98d0094b794243afbc563faa7f1c51d, type: 3}
+  - {fileID: 21300000, guid: d8e3b98571eeb41d1a0c368c0ee56892, type: 3}
+  - {fileID: 21300000, guid: 93ed27e56bc2f45e58bbe56c29166888, type: 3}
+  - {fileID: 21300000, guid: 000c0047d36f74617b4433c23231b818, type: 3}
+  - {fileID: 21300000, guid: b6d038d8dc7e94528b6abeccd487063c, type: 3}
+  - {fileID: 21300000, guid: 6235e2f9fffc84d2399b049efefca8e9, type: 3}
+  - {fileID: 21300000, guid: 76e3d43a7e7c04c1a932bcdba98c8367, type: 3}
+  - {fileID: 21300000, guid: c8d5633bdb19d4edd9ed11e47af53e00, type: 3}
+  - {fileID: 21300000, guid: 880f6ffb41d104d01842fdc8654d9a43, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - btn_login_fb
+  - txt_input_f
+  - txt_input_n
+  - login_icon_password_f
+  - btn_signin_yellow_text
+  - login_icon_user_f
+  - login_icon_password_n
+  - btn_login_fb_icon
+  - login_icon_user_n
+  - btn_signin_yellow
+  - login_title_icon_key
+  m_Tag: Login
+  m_IsVariant: 0

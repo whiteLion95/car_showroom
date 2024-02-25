@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LevelUp
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 59b6ab3c1ef504c9fb2a32f6d9cc13f2, type: 3}
+    totalSpriteSurfaceArea: 1129001
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6ed215108bcd642029f21384487b078e, type: 3}
+  - {fileID: 21300000, guid: d535cbe1338d24f56b73d6955cec8487, type: 3}
+  - {fileID: 21300000, guid: 8d2fcf52ec9844b41a8e364c3fdc143d, type: 3}
+  - {fileID: 21300000, guid: 782624c2e276f4c60acc15c178d877d2, type: 3}
+  - {fileID: 21300000, guid: 6a9ff0253aa4445cc854fc2b8bb011e9, type: 3}
+  - {fileID: 21300000, guid: 2dfd3226a461842ec8b1ed773d404146, type: 3}
+  - {fileID: 21300000, guid: 57ea2a07919474a258f196a61d708232, type: 3}
+  - {fileID: 21300000, guid: 65a5a227d7e3f4e99838678ea69d252e, type: 3}
+  - {fileID: 21300000, guid: 575f723953f264085a3c31ca9d4de9b4, type: 3}
+  - {fileID: 21300000, guid: 2a22de8963e25431e87355bdbab227ec, type: 3}
+  - {fileID: 21300000, guid: 15d2e71a37c884ca0b2b00fb296c78fa, type: 3}
+  - {fileID: 21300000, guid: 7c1006bab767b403cbf398173117efac, type: 3}
+  - {fileID: 21300000, guid: c118e61d0e4ea49c2b1344bf040cff01, type: 3}
+  - {fileID: 21300000, guid: 35faf15f946aa499e9afb5ad95fb8cea, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - levleup_bg_blue
+  - levelup_particle_03
+  - levelup_effect
+  - stage_use_item_plus_time
+  - levelup_particle_02
+  - levleup_bg_yellow
+  - txt_level_up_01
+  - levelup_label
+  - levelup_particle_01
+  - stage_use_item_energy
+  - stage_use_item_potion_green
+  - txt_level_up_02
+  - levelup_item_frame
+  - levelup_star
+  m_Tag: LevelUp
+  m_IsVariant: 0

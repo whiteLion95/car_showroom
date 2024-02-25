@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1baac3155754f599a1f940074d506eb, type: 3}
+  m_Name: MoneySSO
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _saveIsLoaded: 0
+  _saveIsDirty: 0
+  _saveKey: f00e2346-7ccf-4abe-8be6-f8eb9a31bb18
+  OnCurrencyIncrease:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCurrencyDecrease:
+    m_PersistentCalls:
+      m_Calls: []
+  OnCurrencyValueChange:
+    m_PersistentCalls:
+      m_Calls: []

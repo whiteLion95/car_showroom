@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Reward
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 6f6c1c40149813647aaf7b3bdd167b6c, type: 3}
+    - {fileID: 2800000, guid: d9e88662ffce3d045a2df8b900f61ae7, type: 3}
+    - {fileID: 2800000, guid: 158d8852364ed7b41aa5676295028114, type: 3}
+    - {fileID: 2800000, guid: 181cf6f0552d3af4e929c381c9273ec7, type: 3}
+    - {fileID: 2800000, guid: 2adb08b4683c1f842bbe2da727f3ba3a, type: 3}
+    - {fileID: 2800000, guid: 6a5e480dd01e7c342b6e5630db0c3280, type: 3}
+    - {fileID: 2800000, guid: fd8a29605231e6c4884cbb2c619f32bf, type: 3}
+    - {fileID: 2800000, guid: 7ed4e6cf5c416924eb10cb8f160943f3, type: 3}
+    - {fileID: 2800000, guid: d4b35621da731d54095645f85abca4a1, type: 3}
+    - {fileID: 2800000, guid: 5d0cd33b45d30694bb881f1b535dfcf7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 6f6c1c40149813647aaf7b3bdd167b6c: 21300000
+    - fd8a29605231e6c4884cbb2c619f32bf: 21300000
+    - 181cf6f0552d3af4e929c381c9273ec7: 21300000
+    - d4b35621da731d54095645f85abca4a1: 21300000
+    - 158d8852364ed7b41aa5676295028114: 21300000
+    - d9e88662ffce3d045a2df8b900f61ae7: 21300000
+    - 2adb08b4683c1f842bbe2da727f3ba3a: 21300000
+    - 5d0cd33b45d30694bb881f1b535dfcf7: 21300000
+    - 6a5e480dd01e7c342b6e5630db0c3280: 21300000
+    - 7ed4e6cf5c416924eb10cb8f160943f3: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6f6c1c40149813647aaf7b3bdd167b6c, type: 3}
+  - {fileID: 21300000, guid: fd8a29605231e6c4884cbb2c619f32bf, type: 3}
+  - {fileID: 21300000, guid: 181cf6f0552d3af4e929c381c9273ec7, type: 3}
+  - {fileID: 21300000, guid: d4b35621da731d54095645f85abca4a1, type: 3}
+  - {fileID: 21300000, guid: 158d8852364ed7b41aa5676295028114, type: 3}
+  - {fileID: 21300000, guid: d9e88662ffce3d045a2df8b900f61ae7, type: 3}
+  - {fileID: 21300000, guid: 2adb08b4683c1f842bbe2da727f3ba3a, type: 3}
+  - {fileID: 21300000, guid: 5d0cd33b45d30694bb881f1b535dfcf7, type: 3}
+  - {fileID: 21300000, guid: 6a5e480dd01e7c342b6e5630db0c3280, type: 3}
+  - {fileID: 21300000, guid: 7ed4e6cf5c416924eb10cb8f160943f3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - spr_Reward_BG_Border_mask
+  - spr_Reward_MoneyCase
+  - spr_Reward_Button_free
+  - spr_Reward_Timer
+  - spr_Reward_BG_MoneyCase
+  - spr_Reward_BG_Gyroscooter
+  - spr_Reward_Close
+  - spr_Reward_Timer_Pause
+  - spr_Reward_Money
+  - spr_Reward_Rays
+  m_RenderDataMap: {}
+  m_Tag: Atlas_Reward
+  m_IsVariant: 0

@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_TouchGesture_03
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4bdaff1276a4d7f498f86453bf9e176a, type: 3}
+    - {fileID: 2800000, guid: 79d2027097cfde147829e558311d1544, type: 3}
+    - {fileID: 2800000, guid: f04a5caee86ae5a489cf0361c1be2d3e, type: 3}
+    - {fileID: 2800000, guid: 6f06ab54fa1fc5546810df2f703e7eac, type: 3}
+    - {fileID: 2800000, guid: df856daaa33f2c14990bc245934af963, type: 3}
+    - {fileID: 2800000, guid: dd2e490dbe7ff49498ca9b79e977a717, type: 3}
+    - {fileID: 2800000, guid: e0d3b190109e078498eba6f38aadcf1e, type: 3}
+    - {fileID: 2800000, guid: 2401761e8da2f4d4ba6face01bfc6d87, type: 3}
+    - {fileID: 2800000, guid: b76972f3ccb1cb14282e300dc8a8af3c, type: 3}
+    - {fileID: 2800000, guid: 6259afde79ee5b846995616a0f4e2ead, type: 3}
+    - {fileID: 2800000, guid: 4b60ff81756500440ab83b653c62afee, type: 3}
+    - {fileID: 2800000, guid: 882bedb91d4276746b3023a5ae9161a3, type: 3}
+    - {fileID: 2800000, guid: 405cb9b0b2c681146b2cf2825c57b609, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 79d2027097cfde147829e558311d1544: 21300000
+    - e0d3b190109e078498eba6f38aadcf1e: 21300000
+    - 405cb9b0b2c681146b2cf2825c57b609: 21300000
+    - 4b60ff81756500440ab83b653c62afee: 21300000
+    - 4bdaff1276a4d7f498f86453bf9e176a: 21300000
+    - b76972f3ccb1cb14282e300dc8a8af3c: 21300000
+    - 6f06ab54fa1fc5546810df2f703e7eac: 21300000
+    - 882bedb91d4276746b3023a5ae9161a3: 21300000
+    - df856daaa33f2c14990bc245934af963: 21300000
+    - dd2e490dbe7ff49498ca9b79e977a717: 21300000
+    - 2401761e8da2f4d4ba6face01bfc6d87: 21300000
+    - f04a5caee86ae5a489cf0361c1be2d3e: 21300000
+    - 6259afde79ee5b846995616a0f4e2ead: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 79d2027097cfde147829e558311d1544, type: 3}
+  - {fileID: 21300000, guid: e0d3b190109e078498eba6f38aadcf1e, type: 3}
+  - {fileID: 21300000, guid: 405cb9b0b2c681146b2cf2825c57b609, type: 3}
+  - {fileID: 21300000, guid: 4b60ff81756500440ab83b653c62afee, type: 3}
+  - {fileID: 21300000, guid: 4bdaff1276a4d7f498f86453bf9e176a, type: 3}
+  - {fileID: 21300000, guid: b76972f3ccb1cb14282e300dc8a8af3c, type: 3}
+  - {fileID: 21300000, guid: 6f06ab54fa1fc5546810df2f703e7eac, type: 3}
+  - {fileID: 21300000, guid: 882bedb91d4276746b3023a5ae9161a3, type: 3}
+  - {fileID: 21300000, guid: df856daaa33f2c14990bc245934af963, type: 3}
+  - {fileID: 21300000, guid: dd2e490dbe7ff49498ca9b79e977a717, type: 3}
+  - {fileID: 21300000, guid: 2401761e8da2f4d4ba6face01bfc6d87, type: 3}
+  - {fileID: 21300000, guid: f04a5caee86ae5a489cf0361c1be2d3e, type: 3}
+  - {fileID: 21300000, guid: 6259afde79ee5b846995616a0f4e2ead, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 026-tap
+  - 031-swipe up
+  - 037-swipe left
+  - 035-swipe up
+  - 025-tap
+  - 033-tap
+  - 028-drag
+  - 036-swipe down
+  - 029-swipe left
+  - 030-swipe right
+  - 032-swipe down
+  - 027-selection
+  - 034-tap
+  m_RenderDataMap: {}
+  m_Tag: Atlas_TouchGesture_03
+  m_IsVariant: 0

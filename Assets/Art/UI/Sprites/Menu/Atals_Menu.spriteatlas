@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atals_Menu
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 42fb441d9ebf3834c91ca5d450ed4738, type: 3}
+    - {fileID: 2800000, guid: fa73277f2803ffc479c1cfd47937bb63, type: 3}
+    - {fileID: 2800000, guid: a76e8f587f7b30d41a01c801277c2f6a, type: 3}
+    - {fileID: 2800000, guid: 5cdaf1f0d50cc0c45a42ad1f157433fb, type: 3}
+    - {fileID: 2800000, guid: 33dc13db6f44cf94f87dabbd2b2917d3, type: 3}
+    - {fileID: 2800000, guid: 958ef3d73a31de646831d642fc93356e, type: 3}
+    - {fileID: 2800000, guid: df57a0469d21dca4fb3aee179c3a6229, type: 3}
+    - {fileID: 2800000, guid: ed5772f2c1991d842a8525fea4da5dbb, type: 3}
+    - {fileID: 2800000, guid: e16c8941727f5bb4583534dd0451098f, type: 3}
+    - {fileID: 2800000, guid: e41efc8391da3a34185c2bc136f1c134, type: 3}
+    - {fileID: 2800000, guid: 2aaafbea3d179f44b9132a6b81d8b3bc, type: 3}
+    - {fileID: 2800000, guid: 4ee1b13d15ff7b544a3f72328c78e178, type: 3}
+    - {fileID: 2800000, guid: b16f16cae201dcb44aac2d86fe017b7e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 5cdaf1f0d50cc0c45a42ad1f157433fb: 21300000
+    - e16c8941727f5bb4583534dd0451098f: 21300000
+    - ed5772f2c1991d842a8525fea4da5dbb: 21300000
+    - e41efc8391da3a34185c2bc136f1c134: 21300000
+    - df57a0469d21dca4fb3aee179c3a6229: 21300000
+    - 958ef3d73a31de646831d642fc93356e: 21300000
+    - a76e8f587f7b30d41a01c801277c2f6a: 21300000
+    - b16f16cae201dcb44aac2d86fe017b7e: 21300000
+    - 2aaafbea3d179f44b9132a6b81d8b3bc: 21300000
+    - 33dc13db6f44cf94f87dabbd2b2917d3: 21300000
+    - 42fb441d9ebf3834c91ca5d450ed4738: 21300000
+    - 4ee1b13d15ff7b544a3f72328c78e178: 21300000
+    - fa73277f2803ffc479c1cfd47937bb63: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5cdaf1f0d50cc0c45a42ad1f157433fb, type: 3}
+  - {fileID: 21300000, guid: e16c8941727f5bb4583534dd0451098f, type: 3}
+  - {fileID: 21300000, guid: ed5772f2c1991d842a8525fea4da5dbb, type: 3}
+  - {fileID: 21300000, guid: e41efc8391da3a34185c2bc136f1c134, type: 3}
+  - {fileID: 21300000, guid: df57a0469d21dca4fb3aee179c3a6229, type: 3}
+  - {fileID: 21300000, guid: 958ef3d73a31de646831d642fc93356e, type: 3}
+  - {fileID: 21300000, guid: a76e8f587f7b30d41a01c801277c2f6a, type: 3}
+  - {fileID: 21300000, guid: b16f16cae201dcb44aac2d86fe017b7e, type: 3}
+  - {fileID: 21300000, guid: 2aaafbea3d179f44b9132a6b81d8b3bc, type: 3}
+  - {fileID: 21300000, guid: 33dc13db6f44cf94f87dabbd2b2917d3, type: 3}
+  - {fileID: 21300000, guid: 42fb441d9ebf3834c91ca5d450ed4738, type: 3}
+  - {fileID: 21300000, guid: 4ee1b13d15ff7b544a3f72328c78e178, type: 3}
+  - {fileID: 21300000, guid: fa73277f2803ffc479c1cfd47937bb63, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - spr_TutorialArrow_Arrow_blue
+  - spr_Button_Money_Cheat
+  - spr_Button_Gear_1
+  - spr_Button_Privacy_1
+  - spr_MovementTutorial_loop
+  - spr_MovementTutorial_finger
+  - spr_ActivityLabel_3
+  - spr_Button_Vibration_1_on
+  - spr_Button_Privacy_2
+  - spr_vertical_tutorial_arrow
+  - spr_ActivityLabel_1
+  - spr_Button_Vibration_1_off
+  - spr_ActivityLabel_2_reward
+  m_RenderDataMap: {}
+  m_Tag: Atals_Menu
+  m_IsVariant: 0

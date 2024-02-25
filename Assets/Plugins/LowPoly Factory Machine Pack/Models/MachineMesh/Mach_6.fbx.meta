@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: ec999d6b80537ad4d96268d0bf26a1fb
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 8874675441730106285
+    second: AlertOrange.005|AlertOrange.003Action
+  - first:
+      74: 9028173085735013563
+    second: AlertOrange.005|AlertOrange.003Action.001
+  - first:
+      74: -8852592349119396932
+    second: AlertOrange.005|Gear.001Action
+  - first:
+      74: 5877132640469606331
+    second: AlertOrange.005|Gear.001Action.003
+  - first:
+      74: -971592603333914343
+    second: AlertOrange.005|Gear.001Action.004
+  - first:
+      74: -4229242503214301562
+    second: AlertOrange.005|Gear.001Action.005
+  - first:
+      74: -2999038816194065214
+    second: AlertOrange.005|Gear.006Action
+  - first:
+      74: 1471409370014530503
+    second: AlertOrange.005|Gear.006Action.001
+  - first:
+      74: -6122322075882122413
+    second: AlertOrange.005|Machn4_Robot
+  - first:
+      74: -6739254796852611664
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.003Action
+  - first:
+      74: -8291060078414945872
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.003Action.001
+  - first:
+      74: -3570189719827759014
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|Gear.001Action
+  - first:
+      74: -3959586157050381676
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|Gear.001Action.003
+  - first:
+      74: -3932651432576479900
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|Gear.001Action.004
+  - first:
+      74: 8893618762823175440
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|Gear.001Action.005
+  - first:
+      74: 901067297896935609
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|Gear.006Action
+  - first:
+      74: 652478408607422827
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|Gear.006Action.001
+  - first:
+      74: -7509928464452287090
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|Machn4_Robot
+  - first:
+      74: -1825342422540587248
+    second: AlertOrange.005|Pc.003|Pc.003|AlertOrange.003Action
+  - first:
+      74: -6570822406861740867
+    second: AlertOrange.005|Pc.003|Pc.003|Machn4_Robot
+  - first:
+      74: -714755869646013951
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.001
+  - first:
+      74: -2755442380863620662
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.002
+  - first:
+      74: 3984996936721999089
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.003
+  - first:
+      74: -5646637766661205986
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.004
+  - first:
+      74: 2230599898285593887
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.005
+  - first:
+      74: -336547724439091236
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.006
+  - first:
+      74: -1888107441221854723
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.007
+  - first:
+      74: 8972923845080743367
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.008
+  - first:
+      74: 2039989370026118199
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.005|AlertOrange.009
+  - first:
+      74: 4442358305352265117
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|Pc.003|Pc.003|AlertOrange.003Ac
+  - first:
+      74: -8184765995791340730
+    second: AlertOrange.005|AlertOrange.005|AlertOrange.005|Pc.003|Pc.003|Machn4_Robot
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

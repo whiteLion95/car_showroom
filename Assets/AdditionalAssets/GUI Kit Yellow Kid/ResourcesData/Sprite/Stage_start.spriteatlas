@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Stage_start
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d02da803c244145efb73927d6acd2260, type: 3}
+    totalSpriteSurfaceArea: 393893
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 614e1bb2f2ad54c95ab39113111883fb, type: 3}
+  - {fileID: 21300000, guid: fcf16253aedbe49fc9cc10b2aa46fb95, type: 3}
+  - {fileID: 21300000, guid: b598f964ac69f466cb1c22a2a61ed702, type: 3}
+  - {fileID: 21300000, guid: b08bcc4525aa3470890173f582169b1d, type: 3}
+  - {fileID: 21300000, guid: 7aebab06a120b447796f7887a8575ffb, type: 3}
+  - {fileID: 21300000, guid: f02da0f66cff54ef099c8062856135de, type: 3}
+  - {fileID: 21300000, guid: f4a4341765e4a4178a2b20e0f8f1b247, type: 3}
+  - {fileID: 21300000, guid: 2e6e14e8912ec4ffd921623be2ffd816, type: 3}
+  - {fileID: 21300000, guid: ddb2586adb11242eeb867f18a626cd96, type: 3}
+  - {fileID: 21300000, guid: 11d2b6ac40b024f83a8059e29c58765f, type: 3}
+  - {fileID: 21300000, guid: 367acbcc82ba948abb371bd9eb3d2651, type: 3}
+  - {fileID: 21300000, guid: 498bf61f12271495e9bb652cc49eab5d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - stage_start_star_bg
+  - item_frame_f
+  - item_frame_n
+  - btn_start_yellow
+  - stage_start_title_bg
+  - stage_use_item_energy
+  - stage_use_item_potion_green
+  - stage_start_star1
+  - stage_start_star2
+  - label_blue
+  - stage_use_item_plus_time
+  - btn_start_yellow_text
+  m_Tag: Stage_start
+  m_IsVariant: 0
